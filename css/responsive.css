@@ -1,0 +1,221 @@
+
+@media only screen and (max-width: 992px){
+
+    #mobile-header {
+        display: block;
+        margin-top: 25px;
+    }
+
+    .nav {
+    	display: none;
+    }
+
+	.logo {
+		padding-left: 20px;
+	}
+
+	#mobile-header a {
+		font-size: 20px;
+		text-decoration: none;
+		text-transform: uppercase;
+		color: #000;
+	}
+
+	.top-header {
+		display: flex;
+		justify-content: space-around;
+	}
+
+	.hdr-manari img {
+		object-fit: cover;
+		width: 100%;
+		height: 100%;
+	}
+
+	.asort-img-slide img {
+		object-fit: cover;
+		width: 100%;
+		height: 100%;
+	}
+
+	.asort-img-slide {
+		height: 200px;
+	}
+
+	.manari-logo {
+		width: 40%;
+		top: 0;
+	}
+
+	.manari-p {
+		font-size: 16px;
+	}
+
+	.sidr ul li  {
+		color: #fff;
+		line-height: 40px;
+	}
+
+	iframe {
+		max-width: 100%;
+	}
+
+	.copy, .social {
+		text-align: center;
+	}
+
+	.logo-futer {
+		margin: 0 auto;
+	}
+
+	.text-style, .text-style-1 {
+		text-align: center;
+	}  
+}
+
+@media only screen and (max-width: 768px) {
+
+	.slider-img {
+		object-fit: cover;
+		width: 100%;
+		height: 100%;
+	}
+
+	#home {
+		height: 500px;
+	}
+
+	.copy {
+		text-align: center;
+	}
+
+	.social {
+		text-align: center;
+	}
+
+	.text-style, .text-style-1 {
+		text-align: center;
+	}
+
+	.onama-text {
+		text-align: left;
+	}
+
+	.frame {
+		text-align: center;
+		margin-top: 24px;
+	}
+
+	iframe {
+		max-width: 100%;
+		max-width: 250px;
+	}
+
+	.logo-futer {
+		margin: auto;
+	}
+
+	footer {
+		padding-top: 40px;
+		margin: auto;
+	}
+
+	.premium-vines-logo {
+		width: 60%;
+	}
+
+	.premium-vines-text {
+		text-align: center;
+		width: 80%;
+		font-size: 15px;
+	}
+
+	.vines-paraImg img {
+		object-fit: cover;
+		height: 100%;
+		width: 100%;
+	}
+
+	.vines-img-home {
+		height: 300px;
+	}
+
+	.manari {
+		height: 350px;
+	}
+
+	.manari-img img {
+		object-fit: cover;
+		width: 100%;
+		height: 100%;
+	}
+
+	.manari-p {
+		text-align: center;
+		font-size: 1em;
+	}
+
+	#mobile-header {
+		margin-top: 25px;
+	}
+
+	.top-header {
+		display: flex;
+		justify-content: space-around;
+	}
+
+	.sidr ul li  {
+		color: #fff;
+		line-height: 40px;
+		text-decoration: none;
+		list-style-type: none;
+	}
+
+	.logo img {
+		width: 80%;
+		margin-top: 10px;
+	}
+
+	/*----manari page---*/
+
+	.hdr-manari img {
+		object-fit: cover;
+		width: 100%;
+		height: 100%;
+	}
+
+	.hdr-manari {
+		height: 300px;
+	}
+
+	/*----about page----*/
+
+	.about-hdr-img img {
+		object-fit: cover;
+		width: 100%;
+		height: 100%;
+	}
+
+	.about-hdr-img {
+		height: 250px;
+	}
+
+}
+
+@media only screen and (max-width: 576px) {
+
+	#mobile-header span {
+		display: none;
+	}	
+
+	#home {
+		height: 300px;
+	}
+
+	.manari-logo {
+		width: 60%;
+		top: 10%;
+	}
+}
+
+
